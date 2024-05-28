@@ -34,3 +34,6 @@ Learning Objectives for the Intern:
 5. Technical Skills: Gain hands-on experience with web development (both frontend and backend), database management, and API integration.
 6. Project Management: Learn how to plan, execute, and manage a software development project, including requirement gathering, design, implementation, testing, and deployment.
 7. Problem-Solving: Develop problem-solving skills by addressing real-world challenges and finding effective solutions in the context of warehouse management.
+
+## Photo
+![Sample](sample.png)
