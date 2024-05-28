@@ -446,6 +446,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#afbdc3', end
 #column {
   background-color: white;
   width: 120%;
+  height: 70%;
   border: 1px solid #ccc;
   padding: 0px 0px 0px 0px;
   border-radius: 20px;
